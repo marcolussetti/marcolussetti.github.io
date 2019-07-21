@@ -95,16 +95,6 @@
       ]
     },
     {
-      "name": "Web Frameworks",
-      "level": "",
-      "keywords": [
-        "React",
-        "React Native",
-        "Django",
-        "Flask"
-      ]
-    },
-    {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
@@ -118,7 +108,7 @@
   "education": [
     {
       "institution": "Thompson Rivers University, Kamloops, BC, Canada",
-      "area": "Computing Science",
+      "area": "Computing Science (4.28/4.33)",
       "studyType": "B.C.S.",
       "startDate": "2016-01-01",
       "endDate": "2019-04-31",
@@ -193,8 +183,9 @@
   ],
   "awards": [
     {
-      "title": "Valedictorian, Faculty of Science",
+      "title": "Valedictorian - Faculty of Science",
       "date": "2019",
+      "website": "https://www.tru.ca/convocation/history/valedictorians.html#2019",
       "awarder": "Thompson Rivers University",
       "summary": "Awarded to a single student per faculty on the basis of academic and other achivements. The student concludes the commencement ceremony on behalf of the graduating class."
     },
@@ -202,7 +193,7 @@
       "title": "Dr. Sherman Jen Scholarship for Science",
       "date": "2018",
       "awarder": "Thompson Rivers University",
-      "summary": "Inauguaral winner.  Awarded on the basis of academic achivements."
+      "summary": "Inaugural winner.  Awarded on the basis of academic achivements."
     }
   ],
   "publications": [
@@ -211,9 +202,9 @@
       "type": "conference",
       "author": "Marco Lussetti, Dyson Fraser",
       "publisher": "TRU Undergraduate Research & Innovation Conference",
-      "releaseDate": "March, 2019",
+      "releaseDate": "March 2019",
       "website": "https://doi.org/10.13140/RG.2.2.35687.91043",
-      "summary": "The availability of large datasets of player choices in popular online computer games presents an opportunity to identify sudden changes in choice patterns and explore what factors may contribute to such changes. However, the size and scope of large datasets (the dataset used was 1.2TB) raises big data reduction problems and the study tackles these issues using very simple and intuitive tools that may be used on single machines with limited computational resources.<br><br>This study uses a large dataset of over one billion games played in the online computer game Dota 2 to extract metagame shifts and match them to external events (patches, tournaments)."
+      "summary": "The availability of large datasets of player choices in popular online computer games presents an opportunity to identify sudden changes in choice patterns and explore what factors may contribute to such changes. However, the size and scope of large datasets (the dataset used was 1.2TB) raises big data reduction problems and the study tackles these issues using very simple and intuitive tools that may be used on single machines with limited computational resources.<br>This study uses a large dataset of over one billion games played in the online computer game Dota 2 to extract metagame shifts and match them to external events (patches, tournaments)."
     }
   ]
 }
