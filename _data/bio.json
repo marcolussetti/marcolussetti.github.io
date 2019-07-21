@@ -5,12 +5,12 @@
     "picture": "/images/marco.png",
     "email": "contact@marcolussetti.com",
     "website": "https://www.marcolussetti.com",
-    "summary": "IT Solutions Architect for the City of Kamloops, with a broad portfolio spanning infrastructure, networking, databases, and development. My primary background is in full stack and mobile development (Python+Django, Typescript+React, Cordova/Android Native/React Native).<br>My primary research interests are the areas of generative adversarial neural networks (particularly in a healthcare context), big data & big data reduction, and cloud vs local computing.<br>I have longstanding interests in data mining/scraping, different paradigms/approaches to programming languages, and data analysis.",
+    "summary": "IT Solutions Architect for the City of Kamloops, with a broad portfolio spanning infrastructure, networking, databases, and development.<br><br> My primary background is in full stack and mobile development (Python+Django, Typescript+React, Cordova/Android Native/React Native).<br><br>My primary research interests are the areas of generative adversarial neural networks (particularly in a healthcare context), big data & big data reduction, and cloud vs local computing.<br><br>I have longstanding interests in data mining/scraping, different paradigms/approaches to programming languages, and data analysis.",
     "phone": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
+      "city": "Kamloops",
       "region": "British Columbia",
       "countryCode": "CA"
     },
@@ -45,6 +45,15 @@
         "python",
         "big data",
         "big data reduction"
+      ]
+    },
+    {
+      "name": "big data & big data reduction",
+      "keywords": [
+        "big data",
+        "big data reduction",
+        "dimensionality reduction",
+        "granularity reduction"
       ]
     },
     {
@@ -196,10 +205,15 @@
       "summary": "Inauguaral winner.  Awarded on the basis of academic achivements."
     }
   ],
-  "references": [
+  "publications": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Big Data Reduction: Lessons Learned from Analyzing One Billion Dota 2 Matches",
+      "type": "conference",
+      "author": "Marco Lussetti, Dyson Fraser",
+      "publisher": "TRU Undergraduate Research & Innovation Conference",
+      "releaseDate": "March, 2019",
+      "website": "https://doi.org/10.13140/RG.2.2.35687.91043",
+      "summary": "The availability of large datasets of player choices in popular online computer games presents an opportunity to identify sudden changes in choice patterns and explore what factors may contribute to such changes. However, the size and scope of large datasets (the dataset used was 1.2TB) raises big data reduction problems and the study tackles these issues using very simple and intuitive tools that may be used on single machines with limited computational resources.<br><br>This study uses a large dataset of over one billion games played in the online computer game Dota 2 to extract metagame shifts and match them to external events (patches, tournaments)."
     }
   ]
 }
