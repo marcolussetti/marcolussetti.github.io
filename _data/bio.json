@@ -1,58 +1,65 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Marco Lussetti",
+    "label": "IT Solutions Architect / Full Stack",
+    "picture": "/images/marco.png",
+    "email": "contact@marcolussetti.com",
+    "website": "https://www.marcolussetti.com",
+    "summary": "IT Solutions Architect for the City of Kamloops, with a broad portfolio spanning infrastructure, networking, databases, and development. My primary background is in full stack and mobile development (Python+Django, Typescript+React, Cordova/Android Native/React Native).\n\nMy primary research interests are the areas of generative adversarial neural networks (particularly in a healthcare context), big data & big data reduction, and cloud vs local computing.\n\nI have longstanding interests in data mining/scraping, different paradigms/approaches to programming languages, and data analysis.",
+    "phone": "",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "",
+      "region": "British Columbia",
+      "countryCode": "CA"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "marcolussetti",
+        "url": "https://github.com/marcolussetti"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "lussetti",
+        "url": "https://linkedin.com/in/lussetti"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "marcolussetti",
+        "url": "https://twitter.com/marcolussetti"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "knowneuropean",
+        "url": "http://instagram.com/knowneuropean"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
       "name": "data mining",
       "keywords": [
+        "scraping",
+        "python",
+        "big data",
+        "big data reduction"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "cloud computing",
       "keywords": [
+        "AWS",
+        "FaaS",
+        "Azure"
+      ]
+    },
+    {
+      "name": "neural networks",
+      "keywords": [
+        "GANN",
+        "modeling in healthcare"
       ]
     }
   ],
@@ -61,20 +68,19 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "Python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Typescript",
+        "Java",
+        "Django"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "ArchLinux/i3",
+        "Windows/WSL",
         "Git/GitHub",
         "g++",
         "TI LaunchPad"
@@ -83,81 +89,89 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "institution": "Thompson Rivers University, Kamloops, BC, Canada",
+      "area": "Computer Science - Network Computing",
+      "studyType": "B.C.S.",
+      "startDate": "2016-01-01",
+      "endDate": "2019-04-31",
+      "gpa": "4.28/4.33",
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "City of Kamloops",
+      "position": "IT Solutions Architect",
+      "website": "https://www.kamloops.ca",
+      "startDate": "2019-06-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "I provide architectural designs and reviews, procedures development, and training for the City's wide ranging of computing and IT needs.",
+      "highlights": []
+    },
+    {
+      "company": "Thompson Rivers University",
+      "position": "Undergraduate Research Assistant",
+      "website": "http://www.tru.ca",
+      "startDate": "2018-10-01",
+      "endDate": "2019-05-01",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Worked on Generative Adversarial Neural Networks (GANNs) for the creation of synthetic and unencumbered healthcare records.",
+        "Contributed to research on decision making concerning modeling techniques in a group setting.",
+        "Technologies used: Python, Tensorflow"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Open Gaming Solutions",
+      "position": "Software Engineer / Solutions Architect",
+      "website": "https://www.opengamingsolutions.com",
+      "startDate": "2018-05-01",
+      "endDate": "2018-08-31",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Cross-platform mobile application using React.js & Cordova. App coded in TypeScript and deployed on iOS and Android. Integrated animation assets created in Adobe After Effects using Lottie Web",
+        "Performed data analysis associated with main project using Python, Jupyter Notebooks, & Matplotlib",
+        "Additional front-end development in AngularJS and back-end development in Python/Django/Tastypie."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "English Wikipedia",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "position": "Administrator",
       "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "12 years of volunteering in a number of community-elected roles at project and global level.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "During my time on Wikimedia I have focused on behind the scenes work (counter-vandalism, task automation and others) and have served or am serving as an administrator on multiple Wikimedia projects (including the English Wikipedia), oversighter (volunteers entrusted with the removal of private information), global Steward (volunteers entrusted with global maintenance and user permission granting roles) as well as many other roles."
       ]
     },
     {
-      "organization": "",
+      "organization": "TRUSU Computing Science Club",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "Board Member",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "Coordinated the club's workshops, and personally taught 3 such workshops.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Event Coordinator, 2016-Present",
+        "Webmaster, 2018-Present",
+        "Django introductory workshop (2017), Python for Data Analysis (2017), Nim introduction (2018)"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Valedictorian, Faculty of Science",
+      "date": "2019",
+      "awarder": "Thompson Rivers University",
+      "summary": "Awarded to a single student per faculty on the basis of academic and other achivements. The student concludes the commencement ceremony on behalf of the graduating class."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dr. Sherman Jen Scholarship for Science",
+      "date": "2018",
+      "awarder": "Thompson Rivers University",
+      "summary": "Inauguaral winner.  Awarded on the basis of academic achivements."
     }
   ],
   "references": [
