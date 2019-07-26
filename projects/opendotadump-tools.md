@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 # image: images/climate-game-changer.png
-title: Big Dota Reduction
+title: Big Dota Reduction - Lessons Learned From Analyzing 1 Billion DOTA2 Matches
 permalink: projects/opendotadumptools
 date: 2019-04-15
 labels:
